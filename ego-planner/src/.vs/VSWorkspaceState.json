@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\planner",
+    "\\planner\\bspline_opt",
+    "\\planner\\bspline_opt\\include",
+    "\\planner\\bspline_opt\\include\\bspline_opt",
+    "\\planner\\bspline_opt\\src",
+    "\\planner\\path_searching\\include",
+    "\\planner\\path_searching\\include\\path_searching",
+    "\\planner\\path_searching\\src",
+    "\\planner\\plan_manage"
+  ],
+  "SelectedNode": "\\planner\\plan_manage\\src\\ego_replan_fsm.cpp",
+  "PreviewInSolutionExplorer": false
+}
